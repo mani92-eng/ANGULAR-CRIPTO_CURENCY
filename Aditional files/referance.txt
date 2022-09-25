@@ -1,0 +1,7 @@
+https://github.com/yshashi/crypto-checker-yt
+
+ng 2 charts
+
+https://www.npmjs.com/package/ng2-charts
+
+npm install ng2-charts --save
